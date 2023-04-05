@@ -13,6 +13,113 @@
       "id": 4
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Metal Shirt",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Small Rubber Car",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Concrete Salad",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Frozen Shoes",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Practical Fresh Salad",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Wooden Mouse",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Plastic Pizza",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Wooden Sausages",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Ball",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Metal Pants",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Small Rubber Bike",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Concrete Car",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Frozen Sausages",
+      "id": 25
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=22971",
+      "albumId": 13,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=93898",
+      "albumId": 13,
+      "id": 3
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=2535",
+      "albumId": 13,
+      "id": 4
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=52471",
+      "albumId": 13,
+      "id": 5
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=16255",
+      "albumId": 13,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=1817",
+      "albumId": 13,
+      "id": 7
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=24934",
+      "albumId": 13,
+      "id": 8
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=73650",
+      "albumId": 13,
+      "id": 9
+    }
+  ]
 }
